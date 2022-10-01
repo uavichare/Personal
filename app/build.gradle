@@ -52,7 +52,7 @@ dependencies {
                 artifactId 'dubaitest'
                 version '0.1'
                 //  artifact(sourceJar)
-                artifact("aar/ReverseSdk-release.aar")
+                artifact("aar/DubaiCultureLibrary.aar")
 
 
             }
